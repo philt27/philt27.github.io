@@ -37,7 +37,7 @@
 body {
   font-family: "Helvetica";
   background: rgb(160,149,117);
-background: linear-gradient(90deg, rgba(160,149,117,1) 0%, rgba(188,195,169,1) 45%, rgba(202,212,194,1) 100%);
+  background: linear-gradient(90deg, rgba(160,149,117,1) 0%, rgba(188,195,169,1) 13%, rgba(202,212,194,1) 100%);
   font-size: var(--font-size-default);
   color: var(--text-color-default);
 
