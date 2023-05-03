@@ -255,8 +255,8 @@ h2 {
   justify-content: space-around;
 }
 
-a {
-  color: white;
+.icons a {
+  color: rgb(168, 21, 21);
 }
 
 .timeline {
