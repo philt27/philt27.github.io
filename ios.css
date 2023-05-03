@@ -36,7 +36,8 @@
   
 body {
   font-family: "Helvetica";
-  background-color: #c8b9d9f7;  /* #f2f1f6 947cb0*/
+  background: rgb(160,149,117);
+background: linear-gradient(90deg, rgba(160,149,117,1) 0%, rgba(188,195,169,1) 45%, rgba(202,212,194,1) 100%);
   font-size: var(--font-size-default);
   color: var(--text-color-default);
 
