@@ -5,9 +5,7 @@ const {
       set,
       to,
       timeline,
-      utils: { random } } } =
-  
-  window;
+      utils: { random } } } = window;
   const rootNode = document.getElementById('app');
   const armLimit = random(0, 3);
   const headLimit = random(armLimit + 1, armLimit + 3);
