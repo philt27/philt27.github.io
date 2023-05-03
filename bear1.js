@@ -154,7 +154,7 @@ const {
       <Fragment>
         <div className="bear__wrap">
           <div ref={swearRef} className="bear__swear">
-            #@$%*!
+            
           </div>
           <svg
             ref={bearRef}
