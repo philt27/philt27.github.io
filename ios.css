@@ -255,6 +255,10 @@ h2 {
   justify-content: space-around;
 }
 
+.icons a {
+  color: white;
+}
+
 .timeline {
   --wrapper-width: 900px;
 
