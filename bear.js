@@ -1,11 +1,13 @@
 const {
-    React: { useState, useRef, useEffect, Fragment },
-    ReactDOM: { render },
-    gsap: {
-      set,
-      to,
-      timeline,
-      utils: { random } } } = window;
+  React: { useState, useRef, useEffect, Fragment },
+  ReactDOM: { render },
+  gsap: {
+    set,
+    to,
+    timeline,
+    utils: { random }
+  }
+} = window;
   const rootNode = document.getElementById('app');
   const armLimit = random(0, 3);
   const headLimit = random(armLimit + 1, armLimit + 3);
