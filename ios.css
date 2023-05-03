@@ -47,7 +47,7 @@ body {
   align-items: center;
 }
 
-.header {
+/*.header {
   box-sizing: border-box;
   margin: 40px 0 20px 0;
   display: flex;
@@ -150,7 +150,7 @@ body {
 
 footer {
   margin: 0 0 40px 0;
-}
+}*/
 .button-link {
   margin-top: 10px;
   box-sizing: border-box;
