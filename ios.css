@@ -203,7 +203,7 @@
     background: #000;
     /* box-shadow: 0 70px 63px -60px #353535;*/
     box-shadow: 0 2px 35px 12px #3d3d3d;
-    display: flex;
+   /* display: flex; */
     justify-content: center;
     align-items: center;
     position: relative;
