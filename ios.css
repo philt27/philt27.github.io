@@ -210,12 +210,12 @@
     margin: 0 auto;
   }
   .card0 {
-    background: url('1.jpg') center center no-repeat;
+    background: url('1-2.jpg') center center no-repeat;
     background-size: 300px;
     margin-bottom: 50px;
   }
   .card0:hover {
-    background: url('1.jpg') left center no-repeat;
+    background: url('1-2.jpg') left center no-repeat;
     background-size: 600px;
   }
   .card0:hover h2 {
