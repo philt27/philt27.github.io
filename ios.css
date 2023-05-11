@@ -233,6 +233,7 @@
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #fff;
     margin: 20px;
+    padding-top: 10px;
     opacity: 0;
     transition: opacity 1s;
   }
