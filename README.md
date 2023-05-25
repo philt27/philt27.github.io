@@ -1,5 +1,5 @@
 
-<h1 align="center">Привет! <a href="https://philt27.github.io/" target="_blank">Я Саша</a>  
+<h1 align="center">Привет! <a href="https://philt27.github.io/" target="_blank"> Я Саша </a>  
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="35"/></h1>
 
 ```
