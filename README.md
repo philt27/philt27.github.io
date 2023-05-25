@@ -8,12 +8,13 @@
 Здесь Вы сможете узнать обо мне, моих навыках, профессиональном опыте и увлечениях. 
 Все это можно посмотреть кликая иконки на странице сайта. 
 
-Я надеюсь, что сайт-визитка поможет Вам лучше узнать меня и мой опыт, и мы сможем начать
-взаимовыгодное сотрудничество! 
+Я надеюсь, что сайт-визитка поможет Вам лучше узнать меня и мой опыт, и мы сможем начать взаимовыгодное сотрудничество!  
 ```
  
 <p align="center">
   <img src="https://github.com/philt27/philt27.github.io/assets/124879514/566ac4f7-ea32-4068-81d9-012003c1df07" alt="Sublime's custom image"/>
 </p>
 
-![handshake](https://github.com/philt27/philt27.github.io/assets/124879514/ef0aabaa-ac81-4732-8959-bf8202a203af)
+<p align="center">
+  <img src="https://github.com/philt27/philt27.github.io/assets/124879514/ef0aabaa-ac81-4732-8959-bf8202a203af" alt="Sublime's custom image"/>
+</p>
