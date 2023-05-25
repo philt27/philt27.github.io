@@ -11,7 +11,7 @@
 Я надеюсь, что визитка поможет Вам лучше узнать меня и мой опыт, и мы сможем начать
 взаимовыгодное сотрудничество!  
 ```
+
  <p align="center">
-<<<<<<< HEAD
   <img src="https://github.com/philt27/philt27.github.io/assets/124879514/f0517613-caf5-4841-924f-238490a0a9f2" alt="Sublime's custom image"/>
 </p>
